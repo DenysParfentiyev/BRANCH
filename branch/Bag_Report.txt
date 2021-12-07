@@ -1,0 +1,13 @@
+Identifier:*
+Tittle:*
+Description:*
+Environment:*
+STR:*
+Actual Result:*
+Expected Result:*
+Reproducibility:*
+Severity:*
+Priority:*
+Comments:*
+Attachments:*
+
